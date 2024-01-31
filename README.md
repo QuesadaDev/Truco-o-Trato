@@ -1,0 +1,1 @@
+🎃👻💀Ejercicio en el que debemos elegir entre Truco o Tratoe indicarle el nombre, edad y altura del niñ@. Dependeiendo de la elección y las características de los niñ@s el programa devolverá sutos(en el caso de elgir Truco) o dulces(en el caso de Trato). 🍰🍬🍡
